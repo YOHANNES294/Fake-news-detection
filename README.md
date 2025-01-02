@@ -1,5 +1,5 @@
-Welcome to My Project
-Fake News Detection 100
+Welcome to My Project.
+Fake News Detection 100%.
 Using Machine Learning
 This project focuses on identifying and categorizing fake news using advanced machine learning techniques.
 
